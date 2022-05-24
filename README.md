@@ -26,18 +26,12 @@
 ---
 <img align="right" src="https://komarev.com/ghpvc/?username=Schuchhardt&color=lightgray"/>
 
-### Contact with me 📝
-
-[<img align="left" alt="Website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
-
 <br />
 
 ---
 
 ### Languages and Tools 🛠 
-![Ruby]([http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff](https://img.shields.io/badge/-Ruby-ff0000?style=flat-square&logo=ruby))
+![Ruby](https://img.shields.io/badge/-Ruby-ff0000?style=flat-square&logo=ruby)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -51,13 +45,11 @@
 
 <br/>
 
-
+[art]
+<img align="center" alt="cyberart" height="300px" src="https://i.imgur.com/xkWptxy.png" />
 
 [website]: https://schuchhardt.github.io
 [linkedin]: [https://www.linkedin.com/in/sebasti%C3%A1n-schuchhardt-5b673663](https://www.linkedin.com/in/sebasti%C3%A1n-schuchhardt-5b673663/)
 [Spotify]: [https://open.spotify.com/user/12147459292](https://open.spotify.com/user/12147459292?si=e75074d5c8414890)
-
-[art]
-<img align="right" alt="cyberart" height="160px" src="https://i.imgur.com/xkWptxy.png" />
 
 
