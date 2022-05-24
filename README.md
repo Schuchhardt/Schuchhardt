@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  👋
 
 
 <h1 align="center" style="display:none;"></h1>
@@ -11,7 +11,7 @@
 ### I'm [Sebastián Schuchhardt][website]
 
 - 👨‍💻 Currently working as **CTO** on [BeeReaders](https:://www.beereaders.com) in things like _improving reading comprehension, creating a writing product and learning 3D Development_
-- 📚 Learning everything about Leadership, Decentralized environments, ML, Nlp and related technologies 😉
+- 📚 Learning everything about Leadership, Decentralized environments, ML, NLP and related technologies 😉
 - 💪🏼 Future Goals: Make everyday count - Never stop creating new projects.
 - ⚡ Drums, Video-mapping, DJ and tattoos are my other life too
 
@@ -37,11 +37,10 @@
 
 <br/>
 
-[art]
+## Other interests: [art] - [nft] - [crypto]
 <img align="center" alt="cyberart" height="300px" src="https://i.imgur.com/xkWptxy.png" />
 
-[website]: https://schuchhardt.github.io
-[linkedin]: [https://www.linkedin.com/in/sebasti%C3%A1n-schuchhardt-5b673663](https://www.linkedin.com/in/sebasti%C3%A1n-schuchhardt-5b673663/)
-[Spotify]: [https://open.spotify.com/user/12147459292](https://open.spotify.com/user/12147459292?si=e75074d5c8414890)
+[LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-schuchhardt-5b673663/)
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+[Spotify]https://open.spotify.com/user/12147459292?si=e75074d5c8414890)
