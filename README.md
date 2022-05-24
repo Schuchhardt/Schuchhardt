@@ -41,6 +41,6 @@
 <img align="center" alt="cyberart" height="300px" src="https://i.imgur.com/xkWptxy.png" />
 
 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-schuchhardt-5b673663/)
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 [Spotify](https://open.spotify.com/user/12147459292?si=e75074d5c8414890)
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
