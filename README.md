@@ -10,7 +10,7 @@
 
 ### I'm [Sebastián Schuchhardt][website]
 
-- 👨‍💻 Currently working as **CTO** on [BeeReaders](https:://www.beereaders.com) in things like _improving reading comprehension, creating a writing product and learning 3D Development_
+- 👨‍💻 Currently working as **CTO** on [BeeReaders](/Beereaders) in things like _improving reading comprehension, creating a writing product and learning 3D Development_
 - 📚 Learning everything about Leadership, Decentralized environments, ML, NLP and related technologies 😉
 - 💪🏼 Future Goals: Make everyday count - Never stop creating new projects.
 - ⚡ Drums, Video-mapping, DJ and tattoos are my other life too
