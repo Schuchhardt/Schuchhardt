@@ -8,7 +8,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-### I'm [Sebastián Schuchhardt][website]
+### I'm [Sebastián Schuchhardt](https://schuchhardt.cl)
 
 - 👨‍💻 Currently working as **CTO** on [BeeReaders](https://www.beereaders.com) in things like _improving reading comprehension, creating a writing product and learning 3D Development_
 - 📚 Learning everything about Leadership, Decentralized environments, ML, NLP and related technologies 😉
