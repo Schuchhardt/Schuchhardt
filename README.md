@@ -7,22 +7,22 @@ I offer consultancy services and develop custom solutions. Throughout my career,
 
 ## Featured Projects 🌟
 
-### **AI Talks**
-A space where I share my passion for **Generative AI**, organizing talks and workshops that promote the exchange of ideas among professionals. More details at [aitalks.cl](https://aitalks.cl).
+### **AI Talks** 🤖
+A space where I share my passion for **Generative Artificial Intelligence**, organizing talks and workshops that promote the exchange of ideas among professionals. More details at [aitalks.cl](https://aitalks.cl).
 
-### **MÜUD**
-A mobile app designed to help students manage their emotions and improve communication, fostering a healthier school environment. Discover it at [muud.app](https://muud.app).
+### **MÜUD** 📱
+A mobile app designed to help students manage their emotions and improve communication, promoting a healthier school environment. Check it out at [muud.app](https://muud.app).
 
-### **Ludotecas Escolares**
-An educational platform promoting learning through play, offering interactive resources for educational institutions. Learn more at [ludotecasescolares.cl](https://ludotecasescolares.cl).
+### **Ludotecas Escolares** 🎮
+An educational platform that promotes learning through play, offering interactive resources for educational institutions. More info at [ludotecasescolares.cl](https://ludotecasescolares.cl).
 
 ## Music Projects 🎶
 
-### **Softverse**
-An ambient piano album designed to create peaceful and relaxing atmospheres. Listen on [Landr](https://artists.landr.com/055855297617).
+### **Softverse** 🎹
+An ambient piano album designed to create calm and relaxing atmospheres. Listen on [Landr](https://artists.landr.com/055855297617).
 
-### **Gintech**
-My project in Tech House and Techno, focusing on minimalism and electronic textures. Through **Gintech**, I explore the fusion of electronic sounds with a unique aesthetic. Listen on [SoundCloud](https://soundcloud.com/gintech).
+### **Gintech** 🎧
+My project in Tech House and Techno genres focuses on minimalism and electronic textures. Through **Gintech**, I explore the fusion of electronic sounds with a unique aesthetic. Listen on [SoundCloud](https://soundcloud.com/gintech).
 
 ## Tools and Technologies 🛠
 
