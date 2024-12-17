@@ -55,4 +55,4 @@ Mi proyecto en los géneros Tech House y Techno, con un enfoque en el minimalism
 
 ---
 
-Para la versión en inglés, consulta [README.md](./README.md).
+For the English version, check [README.md](./README.md).
