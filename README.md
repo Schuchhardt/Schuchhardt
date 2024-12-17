@@ -1,28 +1,31 @@
-### Hi there  👋
+# Hi! I'm Sebastián Schuchhardt ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+A tech innovator and musician with over 10 years of experience. I specialize in creating tech products, leading agile projects, and developing platforms that solve real-world problems. Additionally, my passion for music drives me to explore and produce different genres.
 
+## My Approach 🚀
 
-<h1 align="center" style="display:none;"></h1>
+I offer consultancy services and develop custom solutions. Throughout my career, I've worked on various projects, from educational technology to mobile apps, always seeking a balance between innovation and functionality.
 
+## Featured Projects 🌟
 
+### **AI Talks**
+A space where I share my passion for **Generative AI**, organizing talks and workshops that promote the exchange of ideas among professionals. More details at [aitalks.cl](https://aitalks.cl).
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+### **MÜUD**
+A mobile app designed to help students manage their emotions and improve communication, fostering a healthier school environment. Discover it at [muud.app](https://muud.app).
 
+### **Ludotecas Escolares**
+An educational platform promoting learning through play, offering interactive resources for educational institutions. Learn more at [ludotecasescolares.cl](https://ludotecasescolares.cl).
 
-### I'm [Sebastián Schuchhardt](https://schuchhardt.cl)
+## Music Projects 🎶
 
-- 👨‍💻 Currently working as **CTO** on [BeeReaders](https://www.beereaders.com) in things like _improving reading comprehension, creating a writing product and learning 3D Development_
-- 📚 Learning everything about Leadership, Decentralized environments, ML, NLP and related technologies 😉
-- 💪🏼 Future Goals: Make everyday count - Never stop creating new projects.
-- ⚡ Drums, Video-mapping, DJ and tattoos are my other life too
+### **Softverse**
+An ambient piano album designed to create peaceful and relaxing atmospheres. Listen on [Landr](https://artists.landr.com/055855297617).
 
----
-<img align="right" src="https://komarev.com/ghpvc/?username=Schuchhardt&color=lightgray"/>
+### **Gintech**
+My project in Tech House and Techno, focusing on minimalism and electronic textures. Through **Gintech**, I explore the fusion of electronic sounds with a unique aesthetic. Listen on [SoundCloud](https://soundcloud.com/gintech).
 
-<br />
+## Tools and Technologies 🛠
 
----
-
-### Languages and Tools 🛠 
 ![Ruby](https://img.shields.io/badge/-Ruby-ff0000?style=flat-square&logo=ruby)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -35,12 +38,18 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-<br/>
+### Artificial Intelligence 🤖
 
-## Other interests: [art] - [nft] - [crypto]
-<img align="center" alt="cyberart" height="300px" src="https://i.imgur.com/xkWptxy.png" />
+![OpenAI](https://img.shields.io/badge/OpenAI-0078D4?style=flat-square&logo=openai&logoColor=ffffff)
+![LangChain](https://img.shields.io/badge/LangChain-0066CC?style=flat-square&logo=python&logoColor=ffffff)
+![Claude](https://img.shields.io/badge/Claude-FF5F00?style=flat-square&logo=python&logoColor=ffffff)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-0057FF?style=flat-square&logo=python&logoColor=ffffff)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=ffffff)
+![Retool](https://img.shields.io/badge/Retool-00B8D9?style=flat-square&logo=retool&logoColor=ffffff)
 
-[LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-schuchhardt-5b673663/)
-[Spotify](https://open.spotify.com/user/12147459292?si=e75074d5c8414890)
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+## Contact & Links 🌍
 
+- [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-schuchhardt-5b673663/)
+- [Spotify](https://open.spotify.com/user/12147459292?si=e75074d5c8414890)
+- [My CV](https://schuchhardt.cl/about.html)
+- [YouTube channel](https://www.youtube.com/@sebaschuchhardt).
