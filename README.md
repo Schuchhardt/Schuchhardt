@@ -53,3 +53,8 @@ My project in Tech House and Techno, focusing on minimalism and electronic textu
 - [Spotify](https://open.spotify.com/user/12147459292?si=e75074d5c8414890)
 - [My CV](https://schuchhardt.cl/about.html)
 - [YouTube channel](https://www.youtube.com/@sebaschuchhardt).
+
+----------------------
+
+Para la version en español revisa -> [LEEME.md](./LEEME.md).
+
